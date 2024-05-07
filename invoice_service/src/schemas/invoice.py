@@ -32,6 +32,9 @@ class InvoiceUpdate(InvoiceBase):
 class InvoiceRequest(BaseModel):
     cufes: List[str]
 
+class ProcessInvoiceRequest(BaseModel):
+    cufe: str
+
 class Invoice(InvoiceBase):
     id: int
 
