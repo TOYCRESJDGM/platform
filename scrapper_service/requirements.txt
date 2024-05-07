@@ -1,0 +1,5 @@
+selenium==4.18.1
+webdriver-manager==4.0.1
+pymysql==1.1.0
+python-dotenv==1.0.1
+Flask==3.0.3
