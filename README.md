@@ -48,7 +48,7 @@ python main.py
 ### Microservicio (Docs)
 Toda la documentación relacionada con el microservicio se encuentra en un archivo YAML. Esta documentación puede ser accedida al desplegar la aplicación en la ruta /docs
 
-![image](https://github.com/TOYCRESJDGM/platform/assets/69774985/6369adbd-e2ff-4417-af1b-09ddcbea1787)
+![image](https://github.com/TOYCRESJDGM/platform/assets/69774985/432b7d58-51e3-4969-97c2-83619ff780f7)
 
 ![image](https://github.com/TOYCRESJDGM/platform/assets/69774985/dd79df3d-faf7-4811-812e-dd35e9730f14)
 
